@@ -18,5 +18,5 @@ This api is the YLE Api for streaming their news source. Just signup here: https
 # if it fails
 
 If this setup fails, then follow these steps:
-1. If it seems as if it is a continuous dependency error, run through the steps of debugging by trashing your package-lock.json or yarn.lock files and node_modules directory.
+1. If it seems as if it is a continuous dependency error, run through the steps of debugging by trashing your package-lock.json or yarn.lock files and node_modules director then reinstall using yarn or npm. If it continues to fail check your node and dependency versions. Go from there.
 2. If it seems as it it's a user error please direct yourself to the API documentation and the Learn React link.
